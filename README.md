@@ -1,2 +1,4 @@
-# Roblox-Development-Pack
-Roblox development pack for new developers, meant to help get a starter on things.
+ATTENTION!
+
+This pack includes starter assets for different genre's of games.
+(Simulators, tycoons, etc.)
